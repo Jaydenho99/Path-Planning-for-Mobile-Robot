@@ -1,0 +1,2 @@
+Please insert simExtGridMap.dll file into the CoppeliaSimEdu folder
+before running the code in CoppeliaSim. Thank you
